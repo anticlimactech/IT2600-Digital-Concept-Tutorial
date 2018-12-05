@@ -1,10 +1,10 @@
-# IT2600-Digital-Concept-Tutorial
-IT2600 Final - An Internet Security Digital Concept Tutorial 
+# Internet Security
+IT2600 Final - Digital Concept Tutorial 
 
-[Security breeches](https://en.wikipedia.org/wiki/Data_breach), where a malicious party gains access to sensitive data from a website or program, are becoming more and more common as the Internet becomes an ever-growing part of our daily lives.
-[Here is a list of security breeches that have occured in 2018.](https://www.identityforce.com/blog/2018-data-breaches) 
+[Security breaches](https://en.wikipedia.org/wiki/Data_breach), where a malicious party gains access to sensitive data from a website or program, are becoming more and more common as computers get faster and the Internet becomes an ever-growing part of our daily lives.
+[Here is a list of security breaches that have occured in 2018.](https://www.identityforce.com/blog/2018-data-breaches) 
 
-[Firefox Monitor](https://monitor.firefox.com/) allows you to search with your email address to see if any sites you use have been part of a data breech.
+[Firefox Monitor](https://monitor.firefox.com/) allows you to search with your email address to see if any sites you use have been part of a data breach.
 
 It is impossible to protect yourself and your data from every possible security risk, but there are some good ways to improve your security throughout your daily life.
 
@@ -13,7 +13,15 @@ One simple habit to adopt is locking your computer or other devices whenever you
 One of the most important things you can do, is to use strong passwords that are different for every site. Many times, if a malicious party is able to obtain login and password information for one website, they will try those same credentials on several
 other sites, because many people use the same password over and over again.
 
-[This video](https://www.youtube.com/watch?v=7U-RbOKanYs) shows just how easy passwords can be to crack, once an attacker has password hashes from a breeched website.
+[This video](https://www.youtube.com/watch?v=7U-RbOKanYs) shows just how easy passwords can be to crack, once an attacker has password hashes from a breached website.
+
+[How to choose a password](https://www.youtube.com/watch?v=3NjQ9b3pgIg)
+[Diceware & Passwords](https://www.youtube.com/watch?v=Pe_3cFuSw1E)
+[Diceware](http://world.std.com/~reinhold/diceware.html)
+[2 Factor Authentication](https://www.youtube.com/watch?v=ZXFYT-BG2So)
+[Hashing Algorithms](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
+[SHA: Secure Hashing Algorithm](https://www.youtube.com/watch?v=DMtFhACPnTY)
+[How NOT to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q)
 
 
 Importance of strong passwords
