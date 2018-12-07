@@ -1,4 +1,4 @@
-## Internet Security
+### Internet Security
 ###### by Scott Watkins
 
 ---
