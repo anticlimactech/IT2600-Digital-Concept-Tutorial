@@ -1,5 +1,9 @@
 # Internet Security
 ###### by Scott Watkins
+
+---
+
+#### Purpose
 This tutorial is intended to provide the average computer user with some relatively simple suggestions to improve their Digital Security.
 
 #### Security Breaches
