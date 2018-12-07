@@ -1,8 +1,8 @@
 # Internet Security
-#### Scott Watkins
-This tutorial is intended to provide some relatively simple suggestions to improve Digital Security for any average tech user.
+###### by Scott Watkins
+This tutorial is intended to provide the average computer user with some relatively simple suggestions to improve their Digital Security.
 
-####Security Breaches
+#### Security Breaches
 [Security breaches](https://en.wikipedia.org/wiki/Data_breach), where a malicious party gains access to sensitive data from a website or program, are becoming more and more common as computers get faster and the Internet becomes an ever-growing part of our daily lives.
 
 [Here is a list of security breaches that have occured in 2018.](https://www.identityforce.com/blog/2018-data-breaches) 
