@@ -41,5 +41,5 @@ Understandably, it can become very diffiult to try and remember lots of unique, 
 
  ---
 
-#### BONUS How Hashing Works
+#### IF YOU WANT TO KNOW EVEN MORE: How Hashing Works
 The videos above mention hashes and hashing several times. If you're more interested in learning the basics of hashing and how password storage is/should be handled on the backend of websites, check out [Hashing Algorithms](https://www.youtube.com/watch?v=b4b8ktEV4Bg), [SHA: Secure Hashing Algorithm](https://www.youtube.com/watch?v=DMtFhACPnTY), and [How NOT to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q).
